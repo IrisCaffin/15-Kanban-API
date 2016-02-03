@@ -29,3 +29,5 @@ C:\dev\github\15-Kanban-API\15-Kanban-API\15-Kanban-API.Tests\bin\Debug\Newtonso
 C:\dev\github\15-Kanban-API\15-Kanban-API\15-Kanban-API.Tests\obj\Debug\15-Kanban-API.Tests.csprojResolveAssemblyReference.cache
 C:\dev\github\15-Kanban-API\15-Kanban-API\15-Kanban-API.Tests\obj\Debug\15-Kanban-API.Tests.dll
 C:\dev\github\15-Kanban-API\15-Kanban-API\15-Kanban-API.Tests\obj\Debug\15-Kanban-API.Tests.pdb
+C:\dev\github\15-Kanban-API\15-Kanban-API\15-Kanban-API.Tests\bin\Debug\AutoMapper.dll
+C:\dev\github\15-Kanban-API\15-Kanban-API\15-Kanban-API.Tests\bin\Debug\AutoMapper.xml
