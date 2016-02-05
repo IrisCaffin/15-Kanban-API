@@ -45,3 +45,6 @@ C:\dev\github\15-Kanban-API\15-Kanban-API\15-Kanban-API\bin\EntityFramework.xml
 C:\dev\github\15-Kanban-API\15-Kanban-API\15-Kanban-API\bin\EntityFramework.SqlServer.xml
 C:\dev\github\15-Kanban-API\15-Kanban-API\15-Kanban-API\bin\AutoMapper.dll
 C:\dev\github\15-Kanban-API\15-Kanban-API\15-Kanban-API\bin\AutoMapper.xml
+C:\dev\github\15-Kanban-API\15-Kanban-API\15-Kanban-API\bin\System.Web.Cors.dll
+C:\dev\github\15-Kanban-API\15-Kanban-API\15-Kanban-API\bin\System.Web.Http.Cors.dll
+C:\dev\github\15-Kanban-API\15-Kanban-API\15-Kanban-API\bin\System.Web.Http.Cors.xml
